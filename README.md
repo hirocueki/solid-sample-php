@@ -1,0 +1,1 @@
+# SOLID sample for PHP
